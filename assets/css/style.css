@@ -1,0 +1,14 @@
+@media (min-width: 576px){
+    .modal-dialog {
+        max-width: 400px !important;
+    }
+}
+
+.card-login-chooser{
+    transition: all 0.4s ease-out;
+}
+
+.card-login-chooser:hover{
+    cursor: pointer;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
